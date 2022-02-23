@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\ConditionalsApp\bin\Debug\ConditionalsApp.exe.config
+C:\Users\Usuario\source\repos\ConditionalsApp\bin\Debug\ConditionalsApp.exe
+C:\Users\Usuario\source\repos\ConditionalsApp\bin\Debug\ConditionalsApp.pdb
+C:\Users\Usuario\source\repos\ConditionalsApp\obj\Debug\ConditionalsApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ConditionalsApp\obj\Debug\ConditionalsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ConditionalsApp\obj\Debug\ConditionalsApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConditionalsApp\obj\Debug\ConditionalsApp.exe
+C:\Users\Usuario\source\repos\ConditionalsApp\obj\Debug\ConditionalsApp.pdb
