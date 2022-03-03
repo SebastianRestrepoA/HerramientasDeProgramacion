@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45e49122-e8a5-48de-aa15-243a5e07ad3c": {
+      "ProjectGuid": "45e49122-e8a5-48de-aa15-243a5e07ad3c",
+      "DisplayName": "ComboBoxApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
