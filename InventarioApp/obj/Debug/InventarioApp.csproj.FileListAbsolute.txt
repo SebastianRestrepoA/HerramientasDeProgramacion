@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\InventarioApp\bin\Debug\InventarioApp.exe.config
+C:\Users\Usuario\source\repos\InventarioApp\bin\Debug\InventarioApp.exe
+C:\Users\Usuario\source\repos\InventarioApp\bin\Debug\InventarioApp.pdb
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.InventarioApp.resources
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.Properties.Resources.resources
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.exe
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.pdb
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.FormPrincipal.resources
+C:\Users\Usuario\source\repos\InventarioApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\InventarioApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\source\repos\InventarioApp\obj\Debug\InventarioApp.csproj.CopyComplete
