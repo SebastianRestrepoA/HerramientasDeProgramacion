@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\WhileApp\bin\Debug\WhileApp.exe.config
+C:\Users\Usuario\source\repos\WhileApp\bin\Debug\WhileApp.exe
+C:\Users\Usuario\source\repos\WhileApp\bin\Debug\WhileApp.pdb
+C:\Users\Usuario\source\repos\WhileApp\obj\Debug\WhileApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\WhileApp\obj\Debug\WhileApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\WhileApp\obj\Debug\WhileApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WhileApp\obj\Debug\WhileApp.exe
+C:\Users\Usuario\source\repos\WhileApp\obj\Debug\WhileApp.pdb

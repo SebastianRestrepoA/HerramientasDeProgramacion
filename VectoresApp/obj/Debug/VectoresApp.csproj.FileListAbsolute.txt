@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\VectoresApp\obj\Debug\VectoresApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\VectoresApp\obj\Debug\VectoresApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\VectoresApp\obj\Debug\VectoresApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\VectoresApp\bin\Debug\VectoresApp.exe.config
+C:\Users\Usuario\source\repos\VectoresApp\bin\Debug\VectoresApp.exe
+C:\Users\Usuario\source\repos\VectoresApp\bin\Debug\VectoresApp.pdb
+C:\Users\Usuario\source\repos\VectoresApp\obj\Debug\VectoresApp.exe
+C:\Users\Usuario\source\repos\VectoresApp\obj\Debug\VectoresApp.pdb
