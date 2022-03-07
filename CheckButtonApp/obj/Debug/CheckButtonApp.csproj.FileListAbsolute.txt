@@ -1,0 +1,22 @@
+C:\Users\Usuario\source\repos\CheckButtonApp\bin\Debug\CheckButtonApp.exe.config
+C:\Users\Usuario\source\repos\CheckButtonApp\bin\Debug\CheckButtonApp.exe
+C:\Users\Usuario\source\repos\CheckButtonApp\bin\Debug\CheckButtonApp.pdb
+C:\Users\Usuario\source\repos\CheckButtonApp\obj\Debug\CheckButtonApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CheckButtonApp\obj\Debug\CheckButtonApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\CheckButtonApp\obj\Debug\CheckButtonApp.Properties.Resources.resources
+C:\Users\Usuario\source\repos\CheckButtonApp\obj\Debug\CheckButtonApp.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\CheckButtonApp\obj\Debug\CheckButtonApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CheckButtonApp\obj\Debug\CheckButtonApp.exe
+C:\Users\Usuario\source\repos\CheckButtonApp\obj\Debug\CheckButtonApp.pdb
+C:\Users\Usuario\source\repos\CheckButtonApp\obj\Debug\CheckButtonApp.CheckBoxApp.resources
+D:\HERRAMIENTAS III\CheckButtonApp\bin\Debug\CheckButtonApp.exe.config
+D:\HERRAMIENTAS III\CheckButtonApp\bin\Debug\CheckButtonApp.exe
+D:\HERRAMIENTAS III\CheckButtonApp\bin\Debug\CheckButtonApp.pdb
+D:\HERRAMIENTAS III\CheckButtonApp\obj\Debug\CheckButtonApp.csproj.AssemblyReference.cache
+D:\HERRAMIENTAS III\CheckButtonApp\obj\Debug\CheckButtonApp.csproj.SuggestedBindingRedirects.cache
+D:\HERRAMIENTAS III\CheckButtonApp\obj\Debug\CheckButtonApp.CheckBoxApp.resources
+D:\HERRAMIENTAS III\CheckButtonApp\obj\Debug\CheckButtonApp.Properties.Resources.resources
+D:\HERRAMIENTAS III\CheckButtonApp\obj\Debug\CheckButtonApp.csproj.GenerateResource.cache
+D:\HERRAMIENTAS III\CheckButtonApp\obj\Debug\CheckButtonApp.csproj.CoreCompileInputs.cache
+D:\HERRAMIENTAS III\CheckButtonApp\obj\Debug\CheckButtonApp.exe
+D:\HERRAMIENTAS III\CheckButtonApp\obj\Debug\CheckButtonApp.pdb
