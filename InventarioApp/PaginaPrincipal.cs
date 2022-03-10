@@ -27,8 +27,7 @@ namespace InventarioApp
         {
             string codigo = textBox1.Text;
             string query = "select producto, valor,descripcion from productos where codigo="+ codigo;
-             // SqlConnection conexion = new SqlConnection("server=DESKTOP-1Q7HUQC; database=base1; integrated security = true");
-             SqlConnection conexion = new SqlConnection(String.Format("server={0}; database={1}; integrated security = true",
+            SqlConnection conexion = new SqlConnection(String.Format("server={0}; database={1}; integrated security = true",
                           jsonData.server, jsonData.db));
             conexion.Open();
             SqlCommand comando = new SqlCommand(query, conexion);
@@ -58,7 +57,8 @@ namespace InventarioApp
             float valor = float.Parse(textBox3.Text);
             string descripcion = textBox4.Text;
             string query = "insert into productos(codigo, producto, valor, descripcion) values(" + codigo + ",'" + producto + "', " + valor + ", '" + descripcion + "')";
-            SqlConnection conexion = new SqlConnection("server=DESKTOP-1Q7HUQC; database=base1; integrated security = true");
+            SqlConnection conexion = new SqlConnection(String.Format("server={0}; database={1}; integrated security = true",
+            jsonData.server, jsonData.db));
             SqlCommand comando = new SqlCommand(query, conexion);
             conexion.Open();
             comando.ExecuteNonQuery();
@@ -83,7 +83,8 @@ namespace InventarioApp
         {
             string codigo = textBox1.Text;
             string query = "delete from productos where codigo=" + codigo;
-            SqlConnection conexion = new SqlConnection("server=DESKTOP-1Q7HUQC; database=base1; integrated security = true");
+            SqlConnection conexion = new SqlConnection(String.Format("server={0}; database={1}; integrated security = true",
+            jsonData.server, jsonData.db));
             SqlCommand comando = new SqlCommand(query, conexion);
             conexion.Open();            
             int cant = comando.ExecuteNonQuery();
